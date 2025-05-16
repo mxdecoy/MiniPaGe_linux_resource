@@ -31,4 +31,4 @@ Copyright (c) 2025 mxz
 ## Credits
 This project was created by mxz with assistance from ChatGPT (OpenAI).
 
-**If you want to see it in action go to https://mx-z.itch.io/minipage! 👾
+**If you want to see it in action visit my [Itch.io](https://mx-z.itch.io/minipage)!** 👾
